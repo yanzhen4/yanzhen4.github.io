@@ -8,7 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-About me
 ======
 I am a junior in UIUC majoring in Computer Science.\\
 I am passionate abaout Machine Learning Research, and are currently participating in research and projects.\\
