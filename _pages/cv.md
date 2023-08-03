@@ -11,8 +11,8 @@ redirect_from:
 
 Education
 ======
-* B.S. Computer Science Major, Statistics Minor,\\
-  University of Illinois Urbana-Champaign, 2025
+* B.S. in Computer Science Major, Statistics Minor,\\
+  University of Illinois Urbana-Champaign, Expected Graduation in 2025
 
 Work experience
 ======
@@ -22,6 +22,6 @@ Work experience
   * DARPA’s INfluence Campaign Awareness and Sensemaking (INCAS) program
     * Help develop a seed-guided entity typing system in software and security domains
 
-* Course Assistant in CS446: Machine Learning. Instructor: Prof. Gui, Prof. Wang
+* Course Assistant in CS446: Machine Learning. Instructor: Prof. Gui, Prof. Wang           Fall 2023
 
-* Course Assistant in CS128: Introduction to Computer Science II. Instructor: Prof. Nowak
+* Course Assistant in CS128: Introduction to Computer Science II. Instructor: Prof. Nowak   Spring 2022
