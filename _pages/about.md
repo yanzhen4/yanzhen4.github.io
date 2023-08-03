@@ -16,7 +16,7 @@ My current research interests are Data Mining / Natural Language Processing, spe
 
 I hope to make friends with other undergraduate students interested in AI Research. Feel free to reach out to me! 
 
-I am also interested in Machine Learning Application in Sports. 
+I am also interested in Machine Learning Application in Sports！
 
 What's new
 ======
