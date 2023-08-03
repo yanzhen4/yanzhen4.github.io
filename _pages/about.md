@@ -10,10 +10,10 @@ redirect_from:
 
 About me
 ======
-I am a junior student in UIUC. I major in Computer Science and minor in Statistics. 
-I am passionate abaout Machine Learning Research, and are currently participating in research and projects.
-I joined the Data Mining Group (DMG) since Spring 2023, where I am fortuante to be advised by Prof. [Jiawei Han](http://hanj.cs.illinois.edu/), and be mentored by [Yu Zhang](https://yuzhimanhua.github.io/). 
-My current research interest are Data Mining / Natural Language Processing, specifically text classification and entity typing. 
+I am a junior in UIUC majoring in Computer Science.\\
+I am passionate abaout Machine Learning Research, and are currently participating in research and projects.\\
+I joined the Data Mining Group (DMG) since Spring 2023, where I am fortuante to be advised by Prof. [Jiawei Han](http://hanj.cs.illinois.edu/), and be mentored by [Yu Zhang](https://yuzhimanhua.github.io/). \\
+My current research interests are Data Mining / Natural Language Processing, specifically text classification and entity typing. 
 
 I hope to make friends with other undergraduate students interested in AI Research. Feel free to reach out to me! 
 
