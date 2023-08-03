@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* B.S. Computer Science Major, Statistics Minor,
+* B.S. Computer Science Major, Statistics Minor,__
   University of Illinois Urbana-Champaign, 2025
 
 Work experience
