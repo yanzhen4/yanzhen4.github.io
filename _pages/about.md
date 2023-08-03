@@ -16,6 +16,7 @@ My current research interests are Data Mining / Natural Language Processing, spe
 
 I hope to make friends with other undergraduate students interested in AI Research. Feel free to reach out to me! 
 
+
 What's new
 ======
 2023-06-23 I will be a Course Assistant in CS446: Machine Learning in Fall 2023.
@@ -24,10 +25,12 @@ What's new
 
 2023-02-04  Prof.Jiawei Han had accepted me as an undergraduate Research Assistant in Data Mining Group! 
 
+
 Education
 ======
 * **B.S**. **Computer Science** Major, Statistics Minor,\\
   **University of Illinois Urbana-Champaign**, 2025 (Expected Graduation)
+
 
 Work experience
 ======
