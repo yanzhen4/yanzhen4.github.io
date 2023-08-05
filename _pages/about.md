@@ -35,9 +35,9 @@ Education
 
 Work experience
 ======
-* **Research Assistant** in Data Mining Group (DMG). Advisor: Jiawei Han. Starting in **Spring 2023**
-  * Molecular Maker Lab Institude (MMLI) Project
-    * Help develop a weakly-supervised approach is used for for chemical reaction extraction
+* **Research Assistant** in **Data Mining Group (DMG). Advisor: Jiawei Han**. Starting in **Spring 2023**
+  * Molecular Maker Lab Institute (MMLI) Project
+    * Help develop a weakly-supervised approach used for chemical reaction extraction
   * DARPA’s INfluence Campaign Awareness and Sensemaking (INCAS) program
     * Help develop a seed-guided entity typing system in software and security domains
 
