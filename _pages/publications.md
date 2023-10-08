@@ -15,4 +15,4 @@ Ming Zhong, Siru Ouyang, Yizhu Jiao, Priyanka Kargupta, \
 Leo Luo, **Yanzhen Shen**, Bobby Zhou, Xianrui Zhong, Xuan Liu, \
 Hongxiang Li, Jinfeng Xiao, Minhao Jiang, Vivian Hu, Xuan Wang, \
 Heng Ji, Martin Burke, Huimin Zhao, Jiawei Han. \
-**EMNLP 2023 System Demonstraction**. Singapore
+**EMNLP 2023 System Demonstration**. Singapore
