@@ -20,6 +20,8 @@ I am also interested in Machine Learning Application in Sports！
 
 What's new
 ======
+2023-09-30 A paper on Chemical Reaction Extraction has been accepted by EMNLP 2023 System Demonstration
+
 2023-06-23 I will be a Course Assistant in CS446: Machine Learning in Fall 2023.
 
 2023-05-16 A paper on Full-Text Scientific Paper Classification was accepted by KDD 2023! The acceptance rate is 22.1% (313/1416).
