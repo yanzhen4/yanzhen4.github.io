@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a junior in UIUC majoring in Computer Science.
+I am a third-year undergraduate student in UIUC majoring in Computer Science.
 I am passionate about Machine Learning Research, and are currently participating in research and projects.
 I has become a member of the Data Mining Group (DMG) since Spring 2023, where I am fortuante to be advised by [Prof. Jiawei Han](http://hanj.cs.illinois.edu/), and be mentored by [Yu Zhang](https://yuzhimanhua.github.io/). 
 
@@ -28,7 +28,7 @@ What's new
 
 2023-05-16 A paper on Full-Text Scientific Paper Classification was accepted by KDD 2023! The acceptance rate is 22.1% (313/1416).
 
-2023-02-04  Prof.Jiawei Han had accepted me as an undergraduate Research Assistant in Data Mining Group! 
+2023-02-04 Prof.Jiawei Han had accepted me as an undergraduate Research Assistant in Data Mining Group! 
 
 
 Education
