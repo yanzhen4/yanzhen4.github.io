@@ -7,9 +7,9 @@ author_profile: true
 
 **2023**\
 
-“Why Should I Review This Paper?” Unifying Semantic, Topic, and Citation Factors for Paper-Reviewer Matching
-Yu Zhang*, ** Yanzhen Shen* **, Xiusi Chen, Bowen Jin, and Jiawei Han.
-arXiv:2310.14483
+“Why Should I Review This Paper?” Unifying Semantic, Topic, and Citation Factors for Paper-Reviewer Matching \
+Yu Zhang*, **Yanzhen Shen* **, Xiusi Chen, Bowen Jin, and Jiawei Han. \
+arXiv:2310.14483 \
 
 REACTION MINER: An Integrated System for Chemical Reaction Extraction from Textual Data \
 Ming Zhong, Siru Ouyang, Yizhu Jiao, Priyanka Kargupta, \
