@@ -20,6 +20,8 @@ I am also interested in Machine Learning Application in Sports！
 
 What's new
 ======
+2023-12-09 A paper on Entity Typing in Science and Software domain has been accepted by AAAI-24
+
 2023-10-22 I served as a sub-reviewer for TKDD.
 
 2023-09-30 A paper on Chemical Reaction Extraction was accepted by EMNLP 2023 System Demonstration.
