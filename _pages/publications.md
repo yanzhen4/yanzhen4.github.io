@@ -15,7 +15,7 @@ A Unified Taxonomy-Guided Instruction Tuning Framework for Entity Set Expansion 
 **Yanzhen Shen\***, Yu Zhang*, Yunyi Zhang, and Jiawei Han. \
 Preprint [arXiv:2404.13405](https://arxiv.org/abs/2402.13405)
 
-Seed-Guided Fine-Grained Entity Typing in Science and Engineering Domains_ [[PDF](papers/aaai24.pdf)] [[arXiv](https://arxiv.org/abs/2401.13129)] [[code](https://github.com/yuzhimanhua/SEType)]     
+Seed-Guided Fine-Grained Entity Typing in Science and Engineering Domains_ 
 **Yu Zhang\***, Yunyi Zhang\*, Yanzhen Shen, Yu Deng, Lucian Popa, Larisa Shwartz, ChengXiang Zhai, and Jiawei Han.     
 AAAI 2024. Vancouver, Canada.
 
@@ -26,7 +26,7 @@ Hongxiang Li, Jinfeng Xiao, Minhao Jiang, Vivian Hu, Xuan Wang, \
 Heng Ji, Martin Burke, Huimin Zhao, Jiawei Han. \
 **EMNLP 2023 System Demonstration**. Singapore
 
-Weakly Supervised Multi-Label Classification of Full-Text Scientific Papers [arXiv](https://arxiv.org/abs/2306.14003) \
+Weakly Supervised Multi-Label Classification of Full-Text Scientific Papers 
 Yu Zhang, Bowen Jin, Xiusi Chen, **Yanzhen Shen**, Yunyi Zhang, Yu Meng, and Jiawei Han. \
 **KDD 2023**. Long Beach, CA, USA.
 
