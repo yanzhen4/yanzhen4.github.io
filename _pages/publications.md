@@ -14,7 +14,7 @@ A Unified Taxonomy-Guided Instruction Tuning Framework for Entity Set Expansion 
 Preprint [arXiv:2404.13405](https://arxiv.org/abs/2402.13405)
 
 Seed-Guided Fine-Grained Entity Typing in Science and Engineering Domains \
-**Yu Zhang\***, Yunyi Zhang\*, Yanzhen Shen, Yu Deng, Lucian Popa, Larisa Shwartz, ChengXiang Zhai, and Jiawei Han.     
+Yu Zhang\*, Yunyi Zhang\*, **Yanzhen Shen**, Yu Deng, Lucian Popa, Larisa Shwartz, ChengXiang Zhai, and Jiawei Han.     
 **AAAI 2024**. Vancouver, Canada.
 
 REACTION MINER: An Integrated System for Chemical Reaction Extraction from Textual Data \
