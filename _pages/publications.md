@@ -11,9 +11,13 @@ author_profile: true
 Yu Zhang*, **Yanzhen Shen\***, Xiusi Chen, Bowen Jin, and Jiawei Han. \
 Preprint [arXiv:2310.14483](https://arxiv.org/abs/2310.14483)
 
+A Unified Taxonomy-Guided Instruction Tuning Framework for Entity Set Expansion and Taxonomy Expansion \
+**Yanzhen Shen\***, Yu Zhang*, Yunyi Zhang, and Jiawei Han. 
+Preprint [arXiv:2404.13405](https://arxiv.org/abs/2402.13405)
+
 Seed-Guided Fine-Grained Entity Typing in Science and Engineering Domains_ [[PDF](papers/aaai24.pdf)] [[arXiv](https://arxiv.org/abs/2401.13129)] [[code](https://github.com/yuzhimanhua/SEType)]     
 **Yu Zhang\***, Yunyi Zhang\*, Yanzhen Shen, Yu Deng, Lucian Popa, Larisa Shwartz, ChengXiang Zhai, and Jiawei Han.     
-[AAAI 2024](https://aaai.org/aaai-conference). Vancouver, Canada.
+AAAI 2024. Vancouver, Canada.
 
 REACTION MINER: An Integrated System for Chemical Reaction Extraction from Textual Data \
 Ming Zhong, Siru Ouyang, Yizhu Jiao, Priyanka Kargupta, \
