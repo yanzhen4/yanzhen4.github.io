@@ -24,7 +24,7 @@ Hongxiang Li, Jinfeng Xiao, Minhao Jiang, Vivian Hu, Xuan Wang, \
 Heng Ji, Martin Burke, Huimin Zhao, Jiawei Han. \
 **EMNLP 2023 System Demonstration**. Singapore
 
-Weakly Supervised Multi-Label Classification of Full-Text Scientific Papers 
+Weakly Supervised Multi-Label Classification of Full-Text Scientific Papers \
 Yu Zhang, Bowen Jin, Xiusi Chen, **Yanzhen Shen**, Yunyi Zhang, Yu Meng, and Jiawei Han. \
 **KDD 2023**. Long Beach, CA, USA.
 
