@@ -11,7 +11,7 @@ Preprint [arXiv:2310.14483](https://arxiv.org/abs/2310.14483)
 
 A Unified Taxonomy-Guided Instruction Tuning Framework for Entity Set Expansion and Taxonomy Expansion \
 **Yanzhen Shen\***, Yu Zhang*, Yunyi Zhang, and Jiawei Han. \
-Preprint [arXiv:2404.13405](https://arxiv.org/abs/2402.13405)
+Preprint [arXiv:2402.13405](https://arxiv.org/abs/2402.13405)
 
 Seed-Guided Fine-Grained Entity Typing in Science and Engineering Domains \
 Yu Zhang\*, Yunyi Zhang\*, **Yanzhen Shen**, Yu Deng, Lucian Popa, Larisa Shwartz, ChengXiang Zhai, and Jiawei Han.     
