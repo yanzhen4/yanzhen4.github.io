@@ -12,6 +12,8 @@ I am a third-year undergraduate student in UIUC majoring in Computer Science.
 I am passionate about Machine Learning Research, and are currently participating in research and projects.
 I have become a member of the Data Mining Group (DMG) since Spring 2023, where I am fortuante to be advised by [Prof. Jiawei Han](http://hanj.cs.illinois.edu/), and be mentored by [Yu Zhang](https://yuzhimanhua.github.io/). 
 
+This summer, I will be researching with Prof. Dan Roth's [Cognitive Computation Group](https://cogcomp.seas.upenn.edu/) in UPenn and [Prof. Jiaxuan You](https://cs.stanford.edu/people/jiaxuan/).  
+
 My current research interests are Data Mining / Natural Language Processing, specifically text mining.
 
 I hope to make friends with other undergraduate students interested in AI Research. Feel free to reach out to me! 
