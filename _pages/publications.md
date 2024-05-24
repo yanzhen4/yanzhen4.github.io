@@ -5,13 +5,14 @@ permalink: /publications/
 author_profile: true
 ---
 
+A Unified Taxonomy-Guided Instruction Tuning Framework for Entity Set Expansion and Taxonomy Expansion \
+**Yanzhen Shen**, Yu Zhang, Yunyi Zhang, and Jiawei Han. \
+Preprint [arXiv:2402.13405](https://arxiv.org/abs/2402.13405)
+
 "Why Should I Review This Paper?" Unifying Semantic, Topic, and Citation Factors for Paper-Reviewer Matching \
-Yu Zhang*, **Yanzhen Shen\***, Xiusi Chen, Bowen Jin, and Jiawei Han. \
+Yu Zhang, **Yanzhen Shen**, Xiusi Chen, Bowen Jin, and Jiawei Han. \
 Preprint [arXiv:2310.14483](https://arxiv.org/abs/2310.14483)
 
-A Unified Taxonomy-Guided Instruction Tuning Framework for Entity Set Expansion and Taxonomy Expansion \
-**Yanzhen Shen\***, Yu Zhang*, Yunyi Zhang, and Jiawei Han. \
-Preprint [arXiv:2402.13405](https://arxiv.org/abs/2402.13405)
 
 Seed-Guided Fine-Grained Entity Typing in Science and Engineering Domains \
 Yu Zhang\*, Yunyi Zhang\*, **Yanzhen Shen**, Yu Deng, Lucian Popa, Larisa Shwartz, ChengXiang Zhai, and Jiawei Han.     
