@@ -8,21 +8,22 @@ redirect_from:
   - /about.html
 ---
 
-I am a third-year undergraduate student in UIUC majoring in Computer Science.
-I am passionate about Machine Learning Research, and are currently participating in research and projects.
-I have become a member of the Data Mining Group (DMG) since Spring 2023, where I am fortuante to be advised by [Prof. Jiawei Han](http://hanj.cs.illinois.edu/), and be mentored by [Yu Zhang](https://yuzhimanhua.github.io/). 
+I am a third-year undergraduate student at UIUC majoring in Computer Science.
+I am a member of the Data Mining Group (DMG), where I am fortunate to be advised by [Prof. Jiawei Han](http://hanj.cs.illinois.edu/), and mentored by [Yu Zhang](https://yuzhimanhua.github.io/). 
 
-This summer, I will be researching with Prof. Dan Roth's [Cognitive Computation Group](https://cogcomp.seas.upenn.edu/) in UPenn and [Prof. Jiaxuan You](https://cs.stanford.edu/people/jiaxuan/).  
+In summer 2024, I was researching with Prof. Dan Roth's [Cognitive Computation Group](https://cogcomp.seas.upenn.edu/) in UPenn.
 
-My current research interests are Data Mining / Natural Language Processing, specifically text mining.
-
-I hope to make friends with other undergraduate students interested in AI Research. Feel free to reach out to me! 
+My current research interests are Data Mining and Natural Language Processing, specifically text mining.
 
 What's new
 ======
+2024-07 I served as a sub-reviewer for ACL ARR. 
+
+2024-05 I served as a sub-reviewer for CIKM 2024. 
+
 2023-12-09 A paper on Entity Typing in Science and Software domain has been accepted by AAAI-24
 
-2023-10-22 I served as a sub-reviewer for TKDD.
+2023-10-22 I served as a sub-reviewer for TKDD 2023.
 
 2023-09-30 A paper on Chemical Reaction Extraction was accepted by EMNLP 2023 System Demonstration.
 
@@ -30,7 +31,7 @@ What's new
 
 2023-05-16 A paper on Full-Text Scientific Paper Classification was accepted by KDD 2023! The acceptance rate is 22.1% (313/1416).
 
-2023-02-04 Prof.Jiawei Han had accepted me as an undergraduate Research Assistant of Data Mining Group! 
+2023-02-04 Prof.Jiawei Han has accepted me as an undergraduate Research Assistant of Data Mining Group! 
 
 
 Education
@@ -38,11 +39,12 @@ Education
 * **B.S**. **Computer Science**,\\
   **University of Illinois Urbana-Champaign**, 2025 (Expected Graduation)
 
-
 Work experience
 ======
-* **Research Assistant** in **Data Mining Group (DMG). Advisor: Jiawei Han**. Since **Spring 2023**
+* **Research Assistant** in the **Cognitive Computation Group. Advisor: Prof. Dan Roth**. In **Summer 2024**
 
-* **Course Assistant** in **CS446**: Machine Learning. Instructor: Prof. Gui, Prof. Wang. In **Fall 2023**
+* **Research Assistant** in the **Data Mining Group (DMG). Advisor: Prof. Jiawei Han**. Since **Spring 2023**
+
+* **Course Assistant** in **CS446**: Machine Learning. Instructors: Prof. Gui, Prof. Wang. In **Fall 2023**
 
 * **Course Assistant** in **CS128**: Introduction to Computer Science II. Instructor: Prof. Nowak. In **Spring 2022**
