@@ -36,7 +36,7 @@ What's new
 
 Education
 ======
-* **B.S**. **Computer Science**,\\
+* **B.S**. **Computer Science**,
   **University of Illinois Urbana-Champaign**, 2025 (Expected Graduation)
 
 Work experience
