@@ -8,8 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-I am a undergraduate student at UIUC majoring in Computer Science.
-I have been a member of the Data Mining Group (DMG) since Spring 2023, where I am fortunate to be advised by [Prof. Jiawei Han](http://hanj.cs.illinois.edu/), and mentored by [Yu Zhang](https://yuzhimanhua.github.io/). 
+I am an undergraduate student at UIUC majoring in Computer Science.
+I have been a member of the Data Mining Group (DMG) since Spring 2023, where I am fortunate to be advised by [Prof. Jiawei Han](http://hanj.cs.illinois.edu/) and mentored by [Yu Zhang](https://yuzhimanhua.github.io/). 
 
 In summer 2024, I was researching with Prof. Dan Roth's [Cognitive Computation Group](https://cogcomp.seas.upenn.edu/) in UPenn.
 
