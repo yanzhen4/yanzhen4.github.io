@@ -12,9 +12,9 @@ I am an undergraduate student at UIUC majoring in Computer Science.
 
 I have been a member of the Data Mining Group (DMG) since Spring 2023, where I am fortunate to be advised by [Prof. Jiawei Han](http://hanj.cs.illinois.edu/) and mentored by [Yu Zhang](https://yuzhimanhua.github.io/). 
 
-In 2024, I had a wonderful summer in UPenn, where I was researching with [Prof. Dan Roth] (https://www.seas.upenn.edu/~danroth/).
+In 2024, I had a wonderful summer at UPenn, where I was researching with [Prof. Dan Roth](https://www.seas.upenn.edu/~danroth/).
 
-Starting in Fall 2024, I will also start working with [Prof. Jiaxuan You] (https://cs.stanford.edu/people/jiaxuan/). 
+Starting in Fall 2024, I will start working with [Prof. Jiaxuan You] (https://cs.stanford.edu/people/jiaxuan/). 
 
 My current research interests are Data Mining and Natural Language Processing.
 
