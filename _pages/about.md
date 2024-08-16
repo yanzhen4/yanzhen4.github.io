@@ -14,7 +14,7 @@ I have been a member of the Data Mining Group (DMG) since Spring 2023, where I a
 
 In 2024, I had a wonderful summer at UPenn, where I was researching with [Prof. Dan Roth](https://www.seas.upenn.edu/~danroth/).
 
-Starting in Fall 2024, I will start working with [Prof. Jiaxuan You](https://cs.stanford.edu/people/jiaxuan/). 
+Starting in Fall 2024, I will also begin working with [Prof. Jiaxuan You](https://cs.stanford.edu/people/jiaxuan/). 
 
 My current research interests are Data Mining and Natural Language Processing.
 
