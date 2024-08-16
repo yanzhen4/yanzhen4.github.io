@@ -10,7 +10,7 @@ A Unified Taxonomy-Guided Instruction Tuning Framework for Entity Set Expansion 
 Preprint [arXiv:2402.13405](https://arxiv.org/abs/2402.13405)
 
 Chain-of-Factors Paper-Reviewer Matching \
-Yu Zhang, **Yanzhen Shen**, SeongKu Kang, Xiusi Chen, Bowen Jin, and Jiawei Ha. \
+Yu Zhang, **Yanzhen Shen**, SeongKu Kang, Xiusi Chen, Bowen Jin, and Jiawei Han. \
 Preprint [arXiv:2310.14483](https://arxiv.org/abs/2310.14483)
 
 
