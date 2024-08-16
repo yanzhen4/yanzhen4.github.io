@@ -42,7 +42,7 @@ Education
 * **B.S**. **Computer Science**,
   **University of Illinois Urbana-Champaign**, 2025 (Expected Graduation)
 
-Work experience
+Experience
 ======
 * **Research Assistant** in the **Cognitive Computation Group. Advisor: Prof. Dan Roth**. In **Summer 2024**
 
