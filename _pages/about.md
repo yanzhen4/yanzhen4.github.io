@@ -20,11 +20,11 @@ My current research interests are Data Mining and Natural Language Processing.
 
 What's new
 ======
-2024-07 I served as a sub-reviewer for ACL ARR. 
+2024-07 I served as a sub-reviewer for ACL Rolling Review. 
 
 2024-05 I served as a sub-reviewer for CIKM 2024. 
 
-2023-12-09 A paper on Entity Typing in Science and Software domain was accepted by AAAI-24
+2023-12-09 A paper on Entity Typing in Science and Software domain was accepted by AAAI 2024
 
 2023-10-22 I served as a sub-reviewer for TKDD 2023.
 
