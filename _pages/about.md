@@ -24,7 +24,7 @@ What's new
 
 2024-05 I served as a sub-reviewer for CIKM 2024. 
 
-2023-12-09 A paper on Entity Typing in Science and Software domain has been accepted by AAAI-24
+2023-12-09 A paper on Entity Typing in Science and Software domain was accepted by AAAI-24
 
 2023-10-22 I served as a sub-reviewer for TKDD 2023.
 
@@ -34,7 +34,7 @@ What's new
 
 2023-05-16 A paper on Full-Text Scientific Paper Classification was accepted by KDD 2023! The acceptance rate is 22.1% (313/1416).
 
-2023-02-04 Prof.Jiawei Han has accepted me as an undergraduate Research Assistant of Data Mining Group! 
+2023-02-04 Prof.Jiawei Han accepted me as an undergraduate Research Assistant of Data Mining Group! 
 
 
 Education
