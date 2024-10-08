@@ -5,6 +5,10 @@ permalink: /publications/
 author_profile: true
 ---
 
+GraphRouter: A Graph-based Router for LLM Selections  \
+Tao Feng, **Yanzhen Shen**, Jiaxuan You.  \
+Preprint [arXiv:2410.03834](https://arxiv.org/pdf/2410.03834)
+
 A Unified Taxonomy-Guided Instruction Tuning Framework for Entity Set Expansion and Taxonomy Expansion \
 **Yanzhen Shen**, Yu Zhang, Yunyi Zhang, and Jiawei Han. \
 Preprint [arXiv:2402.13405](https://arxiv.org/abs/2402.13405)
