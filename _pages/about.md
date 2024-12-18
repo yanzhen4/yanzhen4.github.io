@@ -12,7 +12,7 @@ I am an undergraduate student at UIUC majoring in Computer Science.
 
 I have been a Data Mining Group (DMG) member since Spring 2023, where I am fortunate to be advised by [Prof. Jiawei Han](http://hanj.cs.illinois.edu/) and mentored by [Yu Zhang](https://yuzhimanhua.github.io/). 
 
-I also have the honor of researching under the supervision of [Prof. Jiaxuan You](https://cs.stanford.edu/people/jiaxuan/) and [Prof. Dan Roth](https://www.seas.upenn.edu/~danroth/), where I was mentored by [Sihao Chen](https://sihaoc.github.io/).
+I also have the honor of researching under the supervision of [Prof. Dan Roth](https://www.seas.upenn.edu/~danroth/) and [Prof. Jiaxuan You](https://cs.stanford.edu/people/jiaxuan/). 
 
 What's new
 ======
