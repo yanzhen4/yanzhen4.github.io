@@ -12,10 +12,14 @@ I am an undergraduate student at UIUC majoring in Computer Science.
 
 I have been a Data Mining Group (DMG) member since Spring 2023, where I am fortunate to be advised by [Prof. Jiawei Han](http://hanj.cs.illinois.edu/) and mentored by [Yu Zhang](https://yuzhimanhua.github.io/). 
 
-I am also an intern researching with [Prof. Dan Roth](https://www.seas.upenn.edu/~danroth/) and [Prof. Jiaxuan You](https://scholar.google.com/citations?user=NDbMl7oAAAAJ&hl=en)
+I also have the honor of researching under the supervision of [Prof. Dan Roth](https://www.seas.upenn.edu/~danroth/) (where I was mentored by [Sihao Chen](https://sihaoc.github.io/)) and [Prof. Jiaxuan You](https://cs.stanford.edu/people/jiaxuan/)
 
 What's new
 ======
+2024-12 I have been selected as an honorable mention for the 2024-2025 CRA Outstanding Undergraduate Researcher Award.
+
+2024-10 I served as a reviewer for ICLR 2024. 
+
 2024-07 I served as a sub-reviewer for ACL Rolling Review. 
 
 2024-05 I served as a sub-reviewer for CIKM 2024. 
@@ -38,11 +42,8 @@ Education
 * **B.S**. **Computer Science**,
   **University of Illinois Urbana-Champaign**, 2025 (Expected Graduation)
 
-Experience
+Teaching Experience
 ======
-* **Research Assistant** in the **Cognitive Computation Group. Advisor: Prof. Dan Roth**. In **Summer 2024**
-
-* **Research Assistant** in the **Data Mining Group (DMG). Advisor: Prof. Jiawei Han**. Since **Spring 2023**
 
 * **Course Assistant** in **CS446**: Machine Learning. Instructors: Prof. Gui, Prof. Wang. In **Fall 2023**
 
