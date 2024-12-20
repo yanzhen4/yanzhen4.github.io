@@ -15,7 +15,7 @@ Preprint [arXiv:2310.14483](https://arxiv.org/abs/2310.14483)
 
 A Unified Taxonomy-Guided Instruction Tuning Framework for Entity Set Expansion and Taxonomy Expansion \
 **Yanzhen Shen**, Yu Zhang, Yunyi Zhang, and Jiawei Han. \
-AI4Research @ AAAI 2025 (Oral Presentation)
+AI4Research @ AAAI 2025 (Oral Presentation). Philadelphia, Pennsylvania.
 
 Seed-Guided Fine-Grained Entity Typing in Science and Engineering Domains \
 Yu Zhang\*, Yunyi Zhang\*, **Yanzhen Shen**, Yu Deng, Lucian Popa, Larisa Shwartz, ChengXiang Zhai, and Jiawei Han.     
