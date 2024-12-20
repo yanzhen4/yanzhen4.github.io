@@ -16,7 +16,7 @@ I also have the honor of researching under the supervision of [Prof. Dan Roth](h
 
 What's new
 ======
-2024-12 A paper on Instruction Tuning for Taxonomy Construction was accepted by AI4Research @ AAAI 2025 as an Oral Presentation! 
+2024-12 A paper on Instruction Tuning for Taxonomy Construction was accepted by AI4Research @ AAAI 2025 as an Oral Presentation.
 
 2024-12 I have been selected as an honorable mention for the 2024-2025 CRA Outstanding Undergraduate Researcher Award.
 
