@@ -51,8 +51,13 @@ Teaching Experience
 
 * **Course Assistant** in **CS128**: Introduction to Computer Science II. In **Spring 2022**
 
-Professsional Servies
+Professional Services 
 ======
-ICLR 2025, CIKM 2024
+**Conference Reviewer**
+ICLR2025, CIKM 2024, ACL Rolling Review (Sub-Reviewer)
+
+**Journal Reviewer**
+TKDD 2023 (Sub-Reviewer)
+
 
 
