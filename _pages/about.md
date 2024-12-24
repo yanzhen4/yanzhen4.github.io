@@ -47,6 +47,12 @@ Education
 Teaching Experience
 ======
 
-* **Course Assistant** in **CS446**: Machine Learning. Instructors: Prof. Gui, Prof. Wang. In **Fall 2023**
+* **Course Assistant** in **CS446**: Machine Learning. In **Fall 2023**
 
-* **Course Assistant** in **CS128**: Introduction to Computer Science II. Instructor: Prof. Nowak. In **Spring 2022**
+* **Course Assistant** in **CS128**: Introduction to Computer Science II. In **Spring 2022**
+
+Professsional Servies
+======
+ICLR 2025,CIKM 2024
+
+
