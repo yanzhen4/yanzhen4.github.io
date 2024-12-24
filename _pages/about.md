@@ -26,19 +26,6 @@ What's new
 
 2024-05 I served as a sub-reviewer for CIKM 2024. 
 
-2023-12-09 A paper on Entity Typing in Science and Software domain was accepted by AAAI 2024
-
-2023-10-22 I served as a sub-reviewer for TKDD 2023.
-
-2023-09-30 A paper on Chemical Reaction Extraction was accepted by EMNLP 2023 System Demonstration.
-
-2023-06-23 I will be a Course Assistant in CS446: Machine Learning in Fall 2023.
-
-2023-05-16 A paper on Full-Text Scientific Paper Classification was accepted by KDD 2023! The acceptance rate is 22.1% (313/1416).
-
-2023-02-04 Prof.Jiawei Han accepted me as an undergraduate Research Assistant of Data Mining Group! 
-
-
 Education
 ======
 * **B.S**. **Computer Science**,
