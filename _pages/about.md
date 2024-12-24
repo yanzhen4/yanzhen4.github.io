@@ -41,7 +41,7 @@ Teaching Experience
 Professional Services 
 ======
 **Conference Reviewer**
-ICLR2025, CIKM 2024, ACL Rolling Review (Sub-Reviewer)
+ICLR 2025, CIKM 2024, ACL Rolling Review (Sub-Reviewer)
 
 **Journal Reviewer**
 TKDD 2023 (Sub-Reviewer)
