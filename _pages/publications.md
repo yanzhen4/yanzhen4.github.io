@@ -6,8 +6,8 @@ author_profile: true
 ---
 
 GraphRouter: A Graph-based Router for LLM Selections  \
-Tao Feng, **Yanzhen Shen**, Jiaxuan You.  \
-Preprint [arXiv:2410.03834](https://arxiv.org/pdf/2410.03834)
+Tao Feng, **Yanzhen Shen**, and Jiaxuan You.  \
+***ICLR 2025***. Singapore
 
 Chain-of-Factors Paper-Reviewer Matching \
 Yu Zhang, **Yanzhen Shen**, SeongKu Kang, Xiusi Chen, Bowen Jin, and Jiawei Han. \
