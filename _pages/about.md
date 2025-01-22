@@ -16,7 +16,9 @@ I also have the honor of researching under the supervision of [Prof. Dan Roth](h
 
 What's new
 ======
-2025-01 A paper on paper-reviewer matching was accepted by WWW 2025 as an Oral Presentation. 
+2025-01 A paper on LLM Selection was accepted by IClR 2025！ 
+
+2025-01 A paper on paper-reviewer matching was accepted by WWW 2025 as an Oral Presentation！
 
 2024-12 A paper on Instruction Tuning for Taxonomy Construction was accepted by AI4Research @ AAAI 2025 as an Oral Presentation.
 
