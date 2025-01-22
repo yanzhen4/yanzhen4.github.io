@@ -16,7 +16,7 @@ I also have the honor of researching under the supervision of [Prof. Dan Roth](h
 
 What's new
 ======
-2025-01 A paper on LLM Selection was accepted by IClR 2025！ 
+2025-01 A paper on LLM Selection was accepted by ICLR 2025！ 
 
 2025-01 A paper on paper-reviewer matching was accepted by WWW 2025 as an Oral Presentation！
 
