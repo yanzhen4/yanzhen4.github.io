@@ -18,9 +18,7 @@ I also have the honor of researching under the supervision of [Prof. Dan Roth](h
 
 What's new
 ======
-2025-03-28 I have decided to accept Stanford's MSCS offer!
-
-2025-3-14 I have received Stanford's MSCS offer!
+2025-03 I have received Stanford's MSCS offer and decided to accept it!
 
 2025-01 A paper on LLM Selection was accepted by ICLR 2025！ 
 
