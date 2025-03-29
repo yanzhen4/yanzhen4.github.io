@@ -10,12 +10,18 @@ redirect_from:
 
 I am an undergraduate student at UIUC majoring in Computer Science.
 
+I will be joining Stanford's MSCS program.
+
 I have been a Data Mining Group (DMG) member since Spring 2023, where I am fortunate to be advised by [Prof. Jiawei Han](http://hanj.cs.illinois.edu/) and mentored by [Yu Zhang](https://yuzhimanhua.github.io/). 
 
 I also have the honor of researching under the supervision of [Prof. Dan Roth](https://www.seas.upenn.edu/~danroth/) and [Prof. Jiaxuan You](https://cs.stanford.edu/people/jiaxuan/). 
 
 What's new
 ======
+2025-03-28 I have decided to accept Stanford's MSCS offer!
+
+2025-3-14 I have received Stanford's MSCS offer!
+
 2025-01 A paper on LLM Selection was accepted by ICLR 2025！ 
 
 2025-01 A paper on paper-reviewer matching was accepted by WWW 2025 as an Oral Presentation！
