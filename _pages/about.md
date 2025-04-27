@@ -24,16 +24,6 @@ What's new
 
 2025-01 A paper on paper-reviewer matching was accepted by WWW 2025 as an Oral Presentation！
 
-2024-12 A paper on Instruction Tuning for Taxonomy Construction was accepted by AI4Research @ AAAI 2025 as an Oral Presentation.
-
-2024-12 I have been selected as an honorable mention for the 2024-2025 CRA Outstanding Undergraduate Researcher Award.
-
-2024-10 I served as a reviewer for ICLR 2025. 
-
-2024-07 I served as a sub-reviewer for ACL Rolling Review. 
-
-2024-05 I served as a sub-reviewer for CIKM 2024. 
-
 Education
 ======
 * **B.S**. **Computer Science**,
@@ -53,6 +43,12 @@ ICLR 2025, CIKM 2024, ACL Rolling Review (Sub-Reviewer)
 
 **Journal Reviewer**
 TKDD 2023 (Sub-Reviewer)
+
+Miscellany
+======
+I was born and raised in Beijing, China. I graduated from The High School Affiliated to Renmin University of China。
+
+n my free time, I enjoy playing basketball, typically taking on the Swingman position, with a three-point shooting percentage over 50%.
 
 
 
