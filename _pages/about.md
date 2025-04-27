@@ -46,10 +46,10 @@ TKDD 2023 (Sub-Reviewer)
 
 Miscellany
 ======
-I was born and raised in Beijing, China. I graduated from The High School Affiliated to Renmin University of China。
+I was born and raised in Beijing, China. I graduated from The High School Affiliated to Renmin University of China.
 
-In my free time, I enjoy playing basketball, typically taking on the Swingman position, with a three-point shooting percentage over 50%.
-I was the starting Small Forward of our high school basketball team. 
+In my free time, I enjoy playing basketball, typically taking on the Swingman position, with a three-point shooting percentage over 50% and a free-throw percentage over 90%.
+I served as the starting Small Forward of our high school basketball team. 
 
 I also enjoy reading history and am a huge fan of the Napoleonic Wars. My favorite figure is [Marshal Lannes](https://en.wikipedia.org/wiki/Jean_Lannes)
 
