@@ -18,6 +18,8 @@ I also have the honor of researching under the supervision of [Prof. Dan Roth](h
 
 What's new
 ======
+2025-05 A paper on taxonomy construction has been accepted by ACL 2025 (Findings)! 
+
 2025-03 I have received Stanford's MSCS offer and decided to accept it!
 
 2025-01 A paper on LLM Selection was accepted by ICLR 2025！ 
