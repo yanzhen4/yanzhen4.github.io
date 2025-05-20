@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am an incoming master's student at the Stanford MSCS program. 
+I am an incoming master's student at Stanford's MSCS program. 
 
 Prior to Stanford, I received my B.Sc. degree at UIUC, advised by [Prof. Jiawei Han](http://hanj.cs.illinois.edu/) and [Prof. Jiaxuan You](https://cs.stanford.edu/people/jiaxuan/). 
 I was also fortunate to be mentored by [Prof. Yu Zhang](https://yuzhimanhua.github.io/), who was a PhD student in Prof. Jiawei Han's group.
