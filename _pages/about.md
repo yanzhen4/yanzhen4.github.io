@@ -27,18 +27,6 @@ What's new
 
 2025-01 A paper on paper-reviewer matching was accepted by WWW 2025 as an Oral Presentation！
 
-Education
-======
-* **B.S**. **Computer Science**,
-  **University of Illinois Urbana-Champaign**, 2025 (Expected Graduation)
-
-Teaching Experience
-======
-
-* **Course Assistant** in **CS446**: Machine Learning. In **Fall 2023**
-
-* **Course Assistant** in **CS128**: Introduction to Computer Science II. In **Spring 2022**
-
 Professional Services 
 ======
 **Conference Reviewer**
@@ -51,11 +39,6 @@ Miscellany
 ======
 I was born and raised in Beijing, China. I graduated from The High School Affiliated to Renmin University of China.
 
-In my free time, I enjoy playing basketball, taking on the Swingman position, with a three-pointer shooting percentage over 50% and a free throw percentage over 90%.
-I served as the starting Shooting Guard of our high school basketball team. 
-
-I also enjoy reading history and am a huge fan of the Napoleonic Wars. My favorite figure is [Marshal Lannes](https://en.wikipedia.org/wiki/Jean_Lannes). 
-
-
+In my free time, I enjoy playing basketball, where I take on the Swingman position.
 
 
