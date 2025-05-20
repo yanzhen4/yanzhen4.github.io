@@ -13,7 +13,7 @@ I am an incoming master's student at Stanford's MSCS program.
 Prior to Stanford, I received my B.Sc. degree at the University of Illinois Urbana-Champaign, advised by [Prof. Jiawei Han](http://hanj.cs.illinois.edu/) and [Prof. Jiaxuan You](https://cs.stanford.edu/people/jiaxuan/). 
 During my undergraduate study, I visited the University of Pennsylvania, working with [Prof. Dan Roth](https://www.seas.upenn.edu/~danroth/).
 
-I am also fortunate to be mentored by [Yu Zhang](https://yuzhimanhua.github.io/) in UIUC and [Sihao Chen](https://sihaoc.github.io/) in UPenn.
+I am also fortunate to be mentored by [Yu Zhang](https://yuzhimanhua.github.io/) in UIUC and by [Sihao Chen](https://sihaoc.github.io/) in UPenn.
 
 
 What's new
