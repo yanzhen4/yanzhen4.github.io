@@ -17,6 +17,8 @@ During my undergraduate study, I visited UPenn, working with [Prof. Dan Roth](ht
 
 What's new
 ======
+2025-05 Graduated from UIUC! 
+
 2025-05 A paper on taxonomy construction was accepted by ACL 2025 (Findings)! 
 
 2025-03 I have received Stanford's MSCS offer and decided to accept it!
