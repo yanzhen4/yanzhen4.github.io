@@ -18,7 +18,7 @@ Tao Feng, **Yanzhen Shen**, and Jiaxuan You.  \
 Chain-of-Factors Paper-Reviewer Matching \
 Yu Zhang, **Yanzhen Shen**, SeongKu Kang, Xiusi Chen, Bowen Jin, and Jiawei Han. \
 ***WWW 2025 (Oral Presentation)***. Sydney, Australia. 
-[[PDF]](https://arxiv.org/abs/2310.14483)
+[[PDF]](https://arxiv.org/abs/2310.14483) [[code]](https://github.com/yuzhimanhua/CoF)
 
 A Unified Taxonomy-Guided Instruction Tuning Framework for Entity Set Expansion and Taxonomy Expansion \
 **Yanzhen Shen**, Yu Zhang, Yunyi Zhang, and Jiawei Han. \
