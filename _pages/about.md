@@ -39,16 +39,13 @@ CS128 Intro to Computer Science II.
 
 Professional Services 
 ======
-**Conference Reviewer**
-ICLR 2025, CIKM 2024, ACL Rolling Review (Sub-Reviewer)
-
-**Journal Reviewer**
-TKDD 2023 (Sub-Reviewer)
+**Reviewer**
+ICLR 2025, CIKM 2024, ACL Rolling Review
 
 Miscellany
 ======
 I was born and raised in Beijing, China. I graduated from The High School Affiliated to Renmin University of China.
 
-In my free time, I enjoy playing basketball, where I take on the Swingman position.
+In my free time, I enjoy playing basketball. I was a member of my high school basektball team. 
 
 
