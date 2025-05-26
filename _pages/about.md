@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am an incoming Master student at Stanford's MSCS program. 
+I am an incoming Master student at Stanford MSCS program. 
 
 Prior to Stanford, I received my B.Sc. degree in Computer Science at the University of Illinois Urbana-Champaign, advised by [Prof. Jiawei Han](http://hanj.cs.illinois.edu/) and [Prof. Jiaxuan You](https://cs.stanford.edu/people/jiaxuan/). 
 I visited the University of Pennsylvania in Summer 2024, working with [Prof. Dan Roth](https://www.seas.upenn.edu/~danroth/).
@@ -23,7 +23,7 @@ What's new
 
 2025-05 A paper on taxonomy construction was accepted by ACL 2025 (Findings)! 
 
-2025-03 I have received Stanford's MSCS offer and decided to accept it!
+2025-03 I have received Stanford MSCS offer and decided to accept it!
 
 2025-01 A paper on LLM Selection was accepted by ICLR 2025！ 
 
@@ -46,6 +46,6 @@ Miscellany
 ======
 I was born and raised in Beijing, China. I graduated from The High School Affiliated to Renmin University of China.
 
-In my free time, I enjoy playing basketball. I was a member of my high school basketball team. 
+In my free time, I enjoy playing basketball, and I was a member of my high school basketball team. 
 
 
