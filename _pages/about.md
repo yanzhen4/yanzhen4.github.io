@@ -10,7 +10,7 @@ redirect_from:
 
 I am an incoming Master student at Stanford's MSCS program. 
 
-Prior to Stanford, I received my B.Sc. degree at the University of Illinois Urbana-Champaign, advised by [Prof. Jiawei Han](http://hanj.cs.illinois.edu/) and [Prof. Jiaxuan You](https://cs.stanford.edu/people/jiaxuan/). 
+Prior to Stanford, I received my B.Sc. degree in Computer Science at the University of Illinois Urbana-Champaign, advised by [Prof. Jiawei Han](http://hanj.cs.illinois.edu/) and [Prof. Jiaxuan You](https://cs.stanford.edu/people/jiaxuan/). 
 I also visited the University of Pennsylvania in Summer 2024, working with [Prof. Dan Roth](https://www.seas.upenn.edu/~danroth/).
 
 I am also fortunate to be mentored by [Yu Zhang](https://yuzhimanhua.github.io/) in UIUC and by [Sihao Chen](https://sihaoc.github.io/) in UPenn.
@@ -28,6 +28,12 @@ What's new
 2025-01 A paper on LLM Selection was accepted by ICLR 2025！ 
 
 2025-01 A paper on paper-reviewer matching was accepted by WWW 2025 as an Oral Presentation！
+
+Teaching Experience
+======
+Course Assistant at the University of Illinois at Urbana-Champaign.
+CS446 Machine Learning
+CS128 Intro to Computer Science II. 	
 
 Professional Services 
 ======
