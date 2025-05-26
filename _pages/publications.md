@@ -7,15 +7,18 @@ author_profile: true
 
 ChemRAG: Benchmarking Retrieval-Augmented Generation for Chemistry \
 Xianrui Zhong, Bowen Jin, Siru Ouyang, ***Yanzhen Shen***, Qiao Jin, Yin Fang, Zhiyong Lu, and Jiawei Han. \
-***Preprint 2025***. [[PDF]](https://www.arxiv.org/abs/2505.07671)
+***Preprint 2025***. 
+[[PDF]](https://www.arxiv.org/pdf/2505.07671)
 
 GraphRouter: A Graph-based Router for LLM Selections  \
 Tao Feng, **Yanzhen Shen**, and Jiaxuan You.  \
-***ICLR 2025***. Singapore [[PDF]](https://arxiv.org/abs/2410.03834)
+***ICLR 2025***. Singapore 
+[[PDF]](https://arxiv.org/abs/2410.03834)
 
 Chain-of-Factors Paper-Reviewer Matching \
 Yu Zhang, **Yanzhen Shen**, SeongKu Kang, Xiusi Chen, Bowen Jin, and Jiawei Han. \
-***WWW 2025 (Oral Presentation)***. Sydney, Australia. [[PDF]](https://arxiv.org/abs/2310.14483)
+***WWW 2025 (Oral Presentation)***. Sydney, Australia. 
+[[PDF]](https://arxiv.org/abs/2310.14483)
 
 A Unified Taxonomy-Guided Instruction Tuning Framework for Entity Set Expansion and Taxonomy Expansion \
 **Yanzhen Shen**, Yu Zhang, Yunyi Zhang, and Jiawei Han. \
