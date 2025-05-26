@@ -5,6 +5,10 @@ permalink: /publications/
 author_profile: true
 ---
 
+ChemRAG: Benchmarking Retrieval-Augmented Generation for Chemistry \
+Xianrui Zhong, Bowen Jin, Siru Ouyang, Yanzhen Shen, Qiao Jin, Yin Fang, Zhiyong Lu, and Jiawei Han. \
+***Preprint 2025***.
+
 GraphRouter: A Graph-based Router for LLM Selections  \
 Tao Feng, **Yanzhen Shen**, and Jiaxuan You.  \
 ***ICLR 2025***. Singapore
