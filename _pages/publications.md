@@ -8,12 +8,12 @@ author_profile: true
 ChemRAG: Benchmarking Retrieval-Augmented Generation for Chemistry \
 Xianrui Zhong, Bowen Jin, Siru Ouyang, ***Yanzhen Shen***, Qiao Jin, Yin Fang, Zhiyong Lu, and Jiawei Han. \
 ***Preprint 2025***. \
-[[PDF]](https://arxiv.org/pdf/2402.13405) [[code]](https://github.com/yanzhen4/TaxoInstruct)
+[[PDF]](https://arxiv.org/pdf/2402.13405) 
 
 A Unified Taxonomy-Guided Instruction Tuning Framework for Entity Set Expansion and Taxonomy Expansion \
 **Yanzhen Shen**, Yu Zhang, Yunyi Zhang, and Jiawei Han. \
 ***ACL 2025 Findings***. Vienna, Austria.
-[[PDF]](https://arxiv.org/pdf/2410.03834) [[code]](https://github.com/ulab-uiuc/GraphRouter)
+[[PDF]](https://arxiv.org/pdf/2410.03834) [[code]](https://github.com/yanzhen4/TaxoInstruct)
 
 GraphRouter: A Graph-based Router for LLM Selections  \
 Tao Feng, **Yanzhen Shen**, and Jiaxuan You.  \
@@ -28,6 +28,7 @@ Yu Zhang, **Yanzhen Shen**, SeongKu Kang, Xiusi Chen, Bowen Jin, and Jiawei Han.
 Seed-Guided Fine-Grained Entity Typing in Science and Engineering Domains \
 Yu Zhang\*, Yunyi Zhang\*, **Yanzhen Shen**, Yu Deng, Lucian Popa, Larisa Shwartz, ChengXiang Zhai, and Jiawei Han.     
 **AAAI 2024**. Vancouver, Canada.
+[[PDF]](https://arxiv.org/pdf/2401.13129) [[code]](https://github.com/yuzhimanhua/SEType)
 
 REACTION MINER: An Integrated System for Chemical Reaction Extraction from Textual Data \
 Ming Zhong, Siru Ouyang, Yizhu Jiao, Priyanka Kargupta, \
