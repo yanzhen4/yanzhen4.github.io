@@ -12,7 +12,7 @@ Xianrui Zhong, Bowen Jin, Siru Ouyang, ***Yanzhen Shen***, Qiao Jin, Yin Fang, Z
 
 A Unified Taxonomy-Guided Instruction Tuning Framework for Entity Set Expansion and Taxonomy Expansion \
 **Yanzhen Shen**, Yu Zhang, Yunyi Zhang, and Jiawei Han. \
-***ACL 2025 Findings***. Vienna, Austria.
+***ACL 2025 Findings***. Vienna, Austria. \
 [[PDF]](https://arxiv.org/pdf/2410.03834) [[code]](https://github.com/yanzhen4/TaxoInstruct)
 
 GraphRouter: A Graph-based Router for LLM Selections  \
