@@ -41,5 +41,5 @@ Heng Ji, Martin Burke, Huimin Zhao, Jiawei Han. \
 Weakly Supervised Multi-Label Classification of Full-Text Scientific Papers \
 Yu Zhang, Bowen Jin, Xiusi Chen, **Yanzhen Shen**, Yunyi Zhang, Yu Meng, and Jiawei Han. \
 **KDD 2023**. Long Beach, CA, USA.
-[[PDF]] (https://arxiv.org/pdf/2306.14003) [[code]] (https://github.com/yuzhimanhua/FUTEX)
+[[PDF]](https://arxiv.org/pdf/2306.14003) [[code]](https://github.com/yuzhimanhua/FUTEX)
 
