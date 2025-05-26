@@ -8,12 +8,13 @@ author_profile: true
 ChemRAG: Benchmarking Retrieval-Augmented Generation for Chemistry \
 Xianrui Zhong, Bowen Jin, Siru Ouyang, ***Yanzhen Shen***, Qiao Jin, Yin Fang, Zhiyong Lu, and Jiawei Han. \
 ***Preprint 2025***. 
+
 [[PDF]](https://www.arxiv.org/pdf/2505.07671)
 
 GraphRouter: A Graph-based Router for LLM Selections  \
 Tao Feng, **Yanzhen Shen**, and Jiaxuan You.  \
 ***ICLR 2025***. Singapore 
-[[PDF]](https://arxiv.org/abs/2410.03834)
+[[PDF]](https://arxiv.org/pdf/2410.03834) [[code]](https://github.com/ulab-uiuc/GraphRouter)
 
 Chain-of-Factors Paper-Reviewer Matching \
 Yu Zhang, **Yanzhen Shen**, SeongKu Kang, Xiusi Chen, Bowen Jin, and Jiawei Han. \
