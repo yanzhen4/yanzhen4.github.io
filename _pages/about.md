@@ -46,6 +46,6 @@ Miscellany
 ======
 I was born and raised in Beijing, China. I graduated from The High School Affiliated to Renmin University of China.
 
-In my free time, I enjoy playing basketball. I was a member of my high school basektball team. 
+In my free time, I enjoy playing basketball. I was a member of my high school basketball team. 
 
 
