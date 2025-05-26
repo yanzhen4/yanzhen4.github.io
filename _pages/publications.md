@@ -8,7 +8,12 @@ author_profile: true
 ChemRAG: Benchmarking Retrieval-Augmented Generation for Chemistry \
 Xianrui Zhong, Bowen Jin, Siru Ouyang, ***Yanzhen Shen***, Qiao Jin, Yin Fang, Zhiyong Lu, and Jiawei Han. \
 ***Preprint 2025***. \
-[[PDF]](https://www.arxiv.org/pdf/2505.07671)
+[[PDF]](https://arxiv.org/pdf/2402.13405) [[code]](https://github.com/yanzhen4/TaxoInstruct)
+
+A Unified Taxonomy-Guided Instruction Tuning Framework for Entity Set Expansion and Taxonomy Expansion \
+**Yanzhen Shen**, Yu Zhang, Yunyi Zhang, and Jiawei Han. \
+***ACL 2025 Findings***. Vienna, Austria.
+[[PDF]](https://arxiv.org/pdf/2410.03834) [[code]](https://github.com/ulab-uiuc/GraphRouter)
 
 GraphRouter: A Graph-based Router for LLM Selections  \
 Tao Feng, **Yanzhen Shen**, and Jiaxuan You.  \
@@ -17,12 +22,8 @@ Tao Feng, **Yanzhen Shen**, and Jiaxuan You.  \
 
 Chain-of-Factors Paper-Reviewer Matching \
 Yu Zhang, **Yanzhen Shen**, SeongKu Kang, Xiusi Chen, Bowen Jin, and Jiawei Han. \
-***WWW 2025 (Oral Presentation)***. Sydney, Australia. 
-[[PDF]](https://arxiv.org/abs/2310.14483) [[code]](https://github.com/yuzhimanhua/CoF)
-
-A Unified Taxonomy-Guided Instruction Tuning Framework for Entity Set Expansion and Taxonomy Expansion \
-**Yanzhen Shen**, Yu Zhang, Yunyi Zhang, and Jiawei Han. \
-***ACL 2025 Findings***. Vienna, Austria.
+***WWW 2025 (Oral Presentation)***. Sydney, Australia. \
+[[PDF]](https://arxiv.org/pdf/2310.14483) [[code]](https://github.com/yuzhimanhua/CoF)
 
 Seed-Guided Fine-Grained Entity Typing in Science and Engineering Domains \
 Yu Zhang\*, Yunyi Zhang\*, **Yanzhen Shen**, Yu Deng, Lucian Popa, Larisa Shwartz, ChengXiang Zhai, and Jiawei Han.     
