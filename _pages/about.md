@@ -32,7 +32,9 @@ What's new
 Teaching Experience
 ======
 Course Assistant at the University of Illinois at Urbana-Champaign.
+
 CS446 Machine Learning
+
 CS128 Intro to Computer Science II. 	
 
 Professional Services 
