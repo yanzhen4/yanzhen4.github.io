@@ -5,6 +5,11 @@ permalink: /publications/
 author_profile: true
 ---
 
+LogiCoL: Logically-Informed Contrastive Learning for Set-based Dense Retrieval
+***Yanzhen Shen***, Sihao Chen, Xueqiang Xu, Yunyi Zhang, Chaitanya Malaviya, and Dan Roth
+***Preprint 2025***. 
+[[PDF]](https://arxiv.org/pdf/2505.19588) [[code]](https://github.com/yanzhen4/LogiCoL)
+
 ChemRAG: Benchmarking Retrieval-Augmented Generation for Chemistry \
 Xianrui Zhong, Bowen Jin, Siru Ouyang, ***Yanzhen Shen***, Qiao Jin, Yin Fang, Zhiyong Lu, and Jiawei Han. \
 ***Preprint 2025***. 
@@ -13,7 +18,7 @@ Xianrui Zhong, Bowen Jin, Siru Ouyang, ***Yanzhen Shen***, Qiao Jin, Yin Fang, Z
 A Unified Taxonomy-Guided Instruction Tuning Framework for Entity Set Expansion and Taxonomy Expansion \
 **Yanzhen Shen**, Yu Zhang, Yunyi Zhang, and Jiawei Han. \
 ***ACL 2025 Findings***. Vienna, Austria. 
-[[PDF]](https://arxiv.org/pdf/2410.03834) [[code]](https://github.com/yanzhen4/TaxoInstruct)
+[[PDF]](https://arxiv.org/pdf/2402.13405) [[code]](https://github.com/yanzhen4/TaxoInstruct)
 
 GraphRouter: A Graph-based Router for LLM Selections  \
 Tao Feng, **Yanzhen Shen**, and Jiaxuan You.  \
