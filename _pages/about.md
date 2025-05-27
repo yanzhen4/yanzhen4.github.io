@@ -17,6 +17,8 @@ I am also fortunate to be mentored by [Yu Zhang](https://yuzhimanhua.github.io/)
 
 I am a recipient of Honorable Mention of the 2025 CRA Outstanding Undergrad Researcher Award.
 
+For furthur information, please see my [CV](https://docs.google.com/document/d/1unCRIw5049pvZWEdNxPGmRLdSeABWuQUAyOloLWYcfI/edit?usp=sharing) (last update 2025.05)
+
 What's new
 ======
 2025-05 Check out our new work [LogiCoL](https://arxiv.org/pdf/2505.19588) and [ChemRAG](https://www.arxiv.org/pdf/2505.07671)! 
