@@ -5,8 +5,8 @@ permalink: /publications/
 author_profile: true
 ---
 
-LogiCoL: Logically-Informed Contrastive Learning for Set-based Dense Retrieval
-***Yanzhen Shen***, Sihao Chen, Xueqiang Xu, Yunyi Zhang, Chaitanya Malaviya, and Dan Roth
+LogiCoL: Logically-Informed Contrastive Learning for Set-based Dense Retrieval \
+***Yanzhen Shen***, Sihao Chen, Xueqiang Xu, Yunyi Zhang, Chaitanya Malaviya, and Dan Roth \
 ***Preprint 2025***. \
 [[PDF]](https://arxiv.org/pdf/2505.19588) [[code]](https://github.com/yanzhen4/LogiCoL)
 
