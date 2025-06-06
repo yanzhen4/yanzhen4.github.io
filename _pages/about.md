@@ -19,7 +19,7 @@ I am a recipient of Honorable Mention of the 2025 CRA Outstanding Undergrad Rese
 
 For further information, please see my [CV](https://docs.google.com/document/d/1unCRIw5049pvZWEdNxPGmRLdSeABWuQUAyOloLWYcfI/edit?usp=sharing) (last update 2025.05)
 
-***This summer, I am working as a Research Intern at Microsoft AI (Beijing). If you are also in Beijing, feel free to reach out to me and we can have a coffee together!***
+***This summer, I am working as a Research Intern at Microsoft AI (Beijing). If you are also in Beijing, feel free to reach out—I'd love to grab a coffee and connect!***
 
 What's new
 ======
