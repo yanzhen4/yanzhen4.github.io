@@ -17,7 +17,7 @@ I am also fortunate to be mentored by [Yu Zhang](https://yuzhimanhua.github.io/)
 
 I am a recipient of Honorable Mention of the 2025 CRA Outstanding Undergrad Researcher Award.
 
-***This summer, I am currently working as a Research Intern at Microsoft AI (Beijing).***
+***This summer, I am working as a Research Intern at Microsoft AI (Beijing).***
 
 For further information, please see my [CV](https://docs.google.com/document/d/1unCRIw5049pvZWEdNxPGmRLdSeABWuQUAyOloLWYcfI/edit?usp=sharing) (last update 2025.05)
 
