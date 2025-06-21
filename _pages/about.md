@@ -23,17 +23,13 @@ For further information, please see my [CV](https://docs.google.com/document/d/1
 
 What's new
 ======
+2025-06 Start my internship at Microsoft AI!
+
 2025-05 Check out our new work [LogiCoL](https://arxiv.org/pdf/2505.19588) and [ChemRAG](https://www.arxiv.org/pdf/2505.07671)! 
 
 2025-05 Graduated from UIUC with Highest Honor! 
 
 2025-05 A paper on taxonomy construction was accepted by ACL 2025 (Findings)! 
-
-2025-03 I have received Stanford MSCS offer and decided to accept it!
-
-2025-01 A paper on LLM Selection was accepted by ICLR 2025！ 
-
-2025-01 A paper on paper-reviewer matching was accepted by WWW 2025 as an Oral Presentation！
 
 Teaching Experience
 ======
