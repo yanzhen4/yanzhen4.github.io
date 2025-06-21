@@ -42,7 +42,7 @@ CS128 Intro to Computer Science II.
 Professional Services 
 ======
 **Reviewer**
-ICLR 2025, CIKM 2024, ACL Rolling Review
+ICLR 2025, CIKM 2024, SKnow-LLM@KDD 2025, EMNLP 2025
 
 Miscellany
 ======
