@@ -27,7 +27,7 @@ What's new
 
 2025-05 Check out our new work [LogiCoL](https://arxiv.org/pdf/2505.19588) and [ChemRAG](https://www.arxiv.org/pdf/2505.07671)! 
 
-2025-05 Graduated from UIUC with Highest Honor! 
+2025-05 Graduated from UIUC with Highest Honors! 
 
 2025-05 A paper on taxonomy construction was accepted by ACL 2025 (Findings)! 
 
