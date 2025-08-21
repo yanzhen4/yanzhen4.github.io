@@ -17,7 +17,7 @@ A Unified Taxonomy-Guided Instruction Tuning Framework for Entity Set Expansion 
 
 GraphRouter: A Graph-based Router for LLM Selections  \
 Tao Feng, **Yanzhen Shen**, and Jiaxuan You.  \
-***ICLR 2025***. Singapore 
+***ICLR 2025***. Singapore.
 [[PDF]](https://arxiv.org/pdf/2410.03834) [[code]](https://github.com/ulab-uiuc/GraphRouter)
 
 Chain-of-Factors Paper-Reviewer Matching \
@@ -27,7 +27,7 @@ Yu Zhang, **Yanzhen Shen**, SeongKu Kang, Xiusi Chen, Bowen Jin, and Jiawei Han.
 
 ChemRAG: Benchmarking Retrieval-Augmented Generation for Chemistry \
 Xianrui Zhong, Bowen Jin, Siru Ouyang, ***Yanzhen Shen***, Qiao Jin, Yin Fang, Zhiyong Lu, and Jiawei Han. \
-***COLM 2025***. 
+***COLM 2025***. Montreal, Canada.  
 [[PDF]](https://arxiv.org/pdf/2402.13405) [[code]](https://github.com/xianruizhong/ChemRAG)
 
 Seed-Guided Fine-Grained Entity Typing in Science and Engineering Domains \
