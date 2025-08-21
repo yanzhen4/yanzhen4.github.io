@@ -10,11 +10,6 @@ LogiCoL: Logically-Informed Contrastive Learning for Set-based Dense Retrieval \
 ***EMNLP 2025***. 
 [[PDF]](https://arxiv.org/pdf/2505.19588) [[code]](https://github.com/yanzhen4/LogiCoL)
 
-ChemRAG: Benchmarking Retrieval-Augmented Generation for Chemistry \
-Xianrui Zhong, Bowen Jin, Siru Ouyang, ***Yanzhen Shen***, Qiao Jin, Yin Fang, Zhiyong Lu, and Jiawei Han. \
-***COLM 2025***. 
-[[PDF]](https://arxiv.org/pdf/2402.13405) [[code]](https://github.com/xianruizhong/ChemRAG)
-
 A Unified Taxonomy-Guided Instruction Tuning Framework for Entity Set Expansion and Taxonomy Expansion \
 **Yanzhen Shen**, Yu Zhang, Yunyi Zhang, and Jiawei Han. \
 ***ACL 2025 Findings***. Vienna, Austria. 
@@ -29,6 +24,11 @@ Chain-of-Factors Paper-Reviewer Matching \
 Yu Zhang, **Yanzhen Shen**, SeongKu Kang, Xiusi Chen, Bowen Jin, and Jiawei Han. \
 ***WWW 2025 (Oral Presentation)***. Sydney, Australia. 
 [[PDF]](https://arxiv.org/pdf/2310.14483) [[code]](https://github.com/yuzhimanhua/CoF)
+
+ChemRAG: Benchmarking Retrieval-Augmented Generation for Chemistry \
+Xianrui Zhong, Bowen Jin, Siru Ouyang, ***Yanzhen Shen***, Qiao Jin, Yin Fang, Zhiyong Lu, and Jiawei Han. \
+***COLM 2025***. 
+[[PDF]](https://arxiv.org/pdf/2402.13405) [[code]](https://github.com/xianruizhong/ChemRAG)
 
 Seed-Guided Fine-Grained Entity Typing in Science and Engineering Domains \
 Yu Zhang\*, Yunyi Zhang\*, **Yanzhen Shen**, Yu Deng, Lucian Popa, Larisa Shwartz, ChengXiang Zhai, and Jiawei Han.     
