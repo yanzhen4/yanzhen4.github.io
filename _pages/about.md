@@ -15,7 +15,7 @@ I visited the University of Pennsylvania in Summer 2024, working with [Prof. Dan
 
 I am also fortunate to be mentored by [Yu Zhang](https://yuzhimanhua.github.io/) in UIUC and by [Sihao Chen](https://sihaoc.github.io/) in UPenn.
 
-I also interned at Microsoft AI, working on improving LLM's ability on MLE tasks. 
+I also interned at Microsoft AI in Summer 2025, working on improving LLM's ability on MLE tasks. 
 
 I am a recipient of the Honorable Mention of the 2025 CRA Outstanding Undergrad Researcher Award.
 
