@@ -34,18 +34,6 @@ What's new
 
 2025-05 A paper on taxonomy construction was accepted by ACL 2025 (Findings)! 
 
-Teaching Experience
-======
-Course Assistant at the University of Illinois at Urbana-Champaign.
-
-CS446 Machine Learning
-
-CS128 Intro to Computer Science II. 	
-
-Professional Services 
-======
-**Reviewer**
-ICLR 2025, CIKM 2024, SKnow-LLM@KDD 2025, EMNLP 2025
 
 Miscellany
 ======
