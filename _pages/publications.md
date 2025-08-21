@@ -13,7 +13,7 @@ LogiCoL: Logically-Informed Contrastive Learning for Set-based Dense Retrieval \
 ChemRAG: Benchmarking Retrieval-Augmented Generation for Chemistry \
 Xianrui Zhong, Bowen Jin, Siru Ouyang, ***Yanzhen Shen***, Qiao Jin, Yin Fang, Zhiyong Lu, and Jiawei Han. \
 ***COLM 2025***. 
-[[PDF]](https://arxiv.org/pdf/2402.13405)[[code]](https://github.com/xianruizhong/ChemRAG)
+[[PDF]](https://arxiv.org/pdf/2402.13405) [[code]](https://github.com/xianruizhong/ChemRAG)
 
 A Unified Taxonomy-Guided Instruction Tuning Framework for Entity Set Expansion and Taxonomy Expansion \
 **Yanzhen Shen**, Yu Zhang, Yunyi Zhang, and Jiawei Han. \
