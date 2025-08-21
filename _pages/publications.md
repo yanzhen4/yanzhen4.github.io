@@ -7,7 +7,7 @@ author_profile: true
 
 LogiCoL: Logically-Informed Contrastive Learning for Set-based Dense Retrieval \
 ***Yanzhen Shen***, Sihao Chen, Xueqiang Xu, Yunyi Zhang, Chaitanya Malaviya, and Dan Roth \
-***EMNLP 2025***. 
+***EMNLP 2025***. Suzhou, China. 
 [[PDF]](https://arxiv.org/pdf/2505.19588) [[code]](https://github.com/yanzhen4/LogiCoL)
 
 A Unified Taxonomy-Guided Instruction Tuning Framework for Entity Set Expansion and Taxonomy Expansion \
