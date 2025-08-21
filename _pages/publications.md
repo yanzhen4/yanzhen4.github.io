@@ -7,12 +7,12 @@ author_profile: true
 
 LogiCoL: Logically-Informed Contrastive Learning for Set-based Dense Retrieval \
 ***Yanzhen Shen***, Sihao Chen, Xueqiang Xu, Yunyi Zhang, Chaitanya Malaviya, and Dan Roth \
-***Preprint 2025***. 
+***EMNLP 2025***. 
 [[PDF]](https://arxiv.org/pdf/2505.19588) [[code]](https://github.com/yanzhen4/LogiCoL)
 
 ChemRAG: Benchmarking Retrieval-Augmented Generation for Chemistry \
 Xianrui Zhong, Bowen Jin, Siru Ouyang, ***Yanzhen Shen***, Qiao Jin, Yin Fang, Zhiyong Lu, and Jiawei Han. \
-***Preprint 2025***. 
+***COLM 2025***. 
 [[PDF]](https://arxiv.org/pdf/2402.13405)
 
 A Unified Taxonomy-Guided Instruction Tuning Framework for Entity Set Expansion and Taxonomy Expansion \
