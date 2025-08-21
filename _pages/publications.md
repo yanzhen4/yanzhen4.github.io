@@ -27,7 +27,7 @@ Yu Zhang, **Yanzhen Shen**, SeongKu Kang, Xiusi Chen, Bowen Jin, and Jiawei Han.
 
 ChemRAG: Benchmarking Retrieval-Augmented Generation for Chemistry \
 Xianrui Zhong, Bowen Jin, Siru Ouyang, ***Yanzhen Shen***, Qiao Jin, Yin Fang, Zhiyong Lu, and Jiawei Han. \
-***COLM 2025***. Montreal, Canada.  
+***COLM 2025***. Montreal, Canada. 
 [[PDF]](https://arxiv.org/pdf/2402.13405) [[code]](https://github.com/xianruizhong/ChemRAG)
 
 Seed-Guided Fine-Grained Entity Typing in Science and Engineering Domains \
