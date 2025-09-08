@@ -21,7 +21,7 @@ I am a recipient of the Honorable Mention of the 2025 CRA Outstanding Undergrad 
 
 For further information, please see my [CV](https://docs.google.com/document/d/1unCRIw5049pvZWEdNxPGmRLdSeABWuQUAyOloLWYcfI/edit?usp=sharing) (last update 2025.08)
 
-**I’m looking for a Research Scientist / Machine Learning Engineer Intern for Summer 2026. Please reach out if you think I would be a good fit!**
+**I’m looking for Research Scientist / Machine Learning Engineer Internship for Summer 2026. Please reach out if you think I would be a good fit!**
 
 What's new
 ======
